@@ -1,4 +1,4 @@
-Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),Room Type,Zipcode,Beds,Number of Records,Number Of Reviews,Price,Review Scores Rating
+Host Id,Host Since,Name,Neighbourhood,Property Type,Review Scores Rating (bin),Room Type,Zipcode,Beds,Number of Records,Number Of Reviews,Price,Review Scores Rating
 5162530,,1 Bedroom in Prime Williamsburg,Brooklyn,Apartment,,Entire home/apt,11249.0,1.0,1,0,145,
 33134899,,"Sunny, Private room in Bushwick",Brooklyn,Apartment,,Private room,11206.0,1.0,1,1,37,
 39608626,,Sunny Room in Harlem,Manhattan,Apartment,,Private room,10032.0,1.0,1,1,28,
